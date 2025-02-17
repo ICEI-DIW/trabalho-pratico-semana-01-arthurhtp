@@ -3,11 +3,14 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Arthur Henrique Tristão Pinto
+Matricula:1599000
 
 ## Tela de inspeção com navegador
+
+![Print Ferramentas de Desenvolvedor](FotoDevTools_Arthur.png))
 
 
 ## Tela de projeto no Replit
 
+![Print Repl.IT](FotoReplit_Arthur.png)
